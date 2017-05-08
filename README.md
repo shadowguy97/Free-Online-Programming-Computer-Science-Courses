@@ -52,8 +52,8 @@ Free Programming Resources for Beginners, Intermediate and Beginners
   via Udacity
   ★★★★★ (1 rating) | Self Paced
   
- * introduction to ethical hacking and penetration testing. 
- https://drive.google.com/folderview?id=0B0QjA7idwPm8Rmw3N2JGdFFLYU0
+ * |Introduction to ethical hacking and penetration testing.]
+(https://drive.google.com/folderview?id=0B0QjA7idwPm8Rmw3N2JGdFFLYU0)
  
  
 ## Intermediate
