@@ -38,22 +38,23 @@ Free Programming Resources for Beginners, Intermediate and Beginners
   
   via Udacity
   ★★★★☆ (41 ratings) | Self Paced
-* [Introduction to Linux](https://www.class-central.com/mooc/1857/edx-introduction-to-linux)
+* [Introduction tohttps://www.udacity.com/course/intro-to-javascript--ud803?utm_medium=referral&utm_campaign=api) Linux](https://www.class-central.com/mooc/1857/edx-introduction-to-linux)
   
   Linux Foundation via edX
   ★★★★☆ (37 ratings) | Self Paced
 * [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282?utm_medium=referral&utm_campaign=api)
   
   via Udacity
-  ★★★★★ (1 rating) | Self Paced
+  ★★★★★ (1 rating) | Self Paced
 
 * [Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803?utm_medium=referral&utm_campaign=api)
   
   via Udacity
   ★★★★★ (1 rating) | Self Paced
-  
- * |Introduction to ethical hacking and penetration testing.]
-(https://drive.google.com/folderview?id=0B0QjA7idwPm8Rmw3N2JGdFFLYU0)
+  
+ * Introduction to ethical hacking and penetration testing.
+ 
+https://drive.google.com/folderview?id=0B0QjA7idwPm8Rmw3N2JGdFFLYU0
  
  
 ## Intermediate
